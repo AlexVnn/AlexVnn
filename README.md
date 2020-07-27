@@ -1,4 +1,12 @@
-### Hi there 👋
+<h4 align="center">
+  Olá, meu nome é Alex Vianna! 👋
+</h4>
+<p align="center">
+  Aqui vocês poderão ter acesso aos projetos que tenho desenvolvido com base nos aprendizados obtidos com os excelentes amigos da Agência TH2 (@Thibas e @Rodox) e no curso de Desenvolvimento Web Full Stack oferecidos em parceria pela Digital House e Santander Coders.
+</p>
+<p align="center">
+  HTML | CSS | Flexbox | Bootsrap | JavaScript (Em progresso)
+</p>
 
 <!--
 **AlexVnn/AlexVnn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
