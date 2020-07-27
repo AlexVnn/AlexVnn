@@ -1,9 +1,9 @@
-<h4 align="center">
+<h3 align="center">
   Olá, meu nome é Alex Vianna! 👋
-</h4>
-<h2 align="center">
+</h3>
+<h4 align="center">
   Sou Trainee em TechSales na IBM e também aluno no curso de Desenvolvimento Web Full Stack oferecidos em parceria pela Digital House e Santander Coders.
-</h2>
+</h4>
 <p align="center">
   Aqui vocês poderão ter acesso aos projetos que tenho desenvolvido com base nos aprendizados obtidos na jornada para me tornar um Desenvolvedor Full Stack.
 </p>
