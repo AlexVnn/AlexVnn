@@ -2,11 +2,11 @@
   Olá, meu nome é Alex Vianna! 👋
 </h3>
 <h4 align="center">
-  Sou Trainee em TechSales (IBM) e aluno no curso de Desenvolvedor Full Stack Web Java (Digital House/Santander Coders).
+  Sou Trainee em TechSales (IBM) e estudante no curso de Desenvolvedor Full Stack Web Java (Digital House).
 </h4>
-<h5 align="center">
+<h4 align="center">
   Minha formação é em Engenharia de Produção e atualmente curso MBA em Gestão de Projetos pela USP.
-</h5>
+</h4>
 <p align="center">
   Tenho interesse em aprender e colaborar com projetos utilizando NodeJS, React e React Native!
 </p>
