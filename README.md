@@ -12,14 +12,14 @@
 </p>
 <br>
 <p align="center">
-  <b>Skills<b>
+  <b>Skills</b>
 </p>
 <p align="center">
   HTML | CSS | Flexbox | Bootsrap | JavaScript (Em progresso)
 </p>
 <br>
 <p align="center">
-  <b>Contato<b>
+  <b>Contato</b>
 </p>
 <p align="center">
   https://www.linkedin.com/in/alexvnn/
