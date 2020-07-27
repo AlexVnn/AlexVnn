@@ -5,7 +5,7 @@
 <p align="center">
   Sou Trainee em TechSales (IBM) e estudante no curso de Desenvolvedor Full Stack Web Java (Digital House).
 </p>
-<hp align="center">
+<p align="center">
   Minha formação é em Engenharia de Produção e atualmente curso MBA em Gestão de Projetos pela USP.
 </p>
 <p align="center">
