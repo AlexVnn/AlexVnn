@@ -1,6 +1,7 @@
 <h4 align="center">
   Olá, meu nome é Alex Vianna! 👋
 </h4>
+<br>
 <p align="center">
   Sou Trainee em TechSales (IBM) e estudante no curso de Desenvolvedor Full Stack Web Java (Digital House).
 </p>
